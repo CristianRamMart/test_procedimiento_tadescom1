@@ -1,2 +1,2 @@
 # test_procedimiento_tadescom1
-procedimiento para crear el reporte de TADESCOM1, solo son compañías activas
+Se crea un procedimiento el cual nos ayuda a cargar datos de las compañias activas que se tienen en conekta
